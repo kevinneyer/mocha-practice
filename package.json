@@ -1,0 +1,16 @@
+{
+  "name": "mocha-practice",
+  "description": "practice setting up and writing tests in mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinneyer/mocha-practice.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
